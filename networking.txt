@@ -1,0 +1,44 @@
+So essentially what happens from the moment that you type in the web address to when the website appears in front of the user
+is numbered by these steps
+
+1) The users types in the url of the web address they are trying to go to then the browser of choice
+automatically parses the "https://" to the web address
+
+2) Once the this data is parsed a network request is sent out to the server that essentially this network request
+wants to be completed
+
+3) Once the network request is sent through the server the server then checks if internet connection is available, depending on that
+the internet socket will either be open or closed, if the internet socket is open the network request can successfully be sent to the
+client or where the network requests should be sent to
+
+4) If successful the network request can go through and the web page that was meant to be the destination will be displayed
+
+
+Problem 4
+
+What is the difference between an interpreted and a compiled language?  What are the strengths and weaknesses of each?
+Give an example of each, and list a situation for each where a developer should choose one over the other.
+
+So the difference between an interpreted and a compiled language is that an interpreted language is used for
+understandability so that the user iterating over this code and be able to understand the documentation of what the code
+it is paired up with may do
+
+Whilst a compiled language, what it essentially does is that it allows for the code that has been entered in the user's
+editor of choice is enabled to compile the code or rather simulate the effects of the code and the procedure it may happen
+to follow
+
+The strength of compiled coding is that is able to simulate real outcomes based on the structure as well as the manipulation
+of objects that is offered through the given compiled language. The weaknesses of compiled language is that it does not give much room for
+leeway due to the simulation that comes from running the program
+
+The strengths of a interpreted language is that interpreted languages offer the user the ability to understand the logic behind the
+given code and this is necessary for the understandability of complex as well as well as very granular and logistical code
+
+The weaknesses of such code is that due to the absence of simulation that comes from the code it is near impossible to directly simulate and compile a
+program therefore having to direct the user to add the logistical thinking of the interpreted code into a different language
+
+Problem 5 Algorithms and Pseudocode
+
+Essentially what an algorithm does is that its a set of code that is used to solve general problems when approaching creative thinking in your code.
+This is useful due to the fact that it allows for creation of new ways of thinking and also new ways that applications work, without algorithms a majority of
+big programs would not be able to do what they do therefore not contribute to much change
